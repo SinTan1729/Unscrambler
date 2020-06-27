@@ -9,7 +9,7 @@ A simple tool to unscramble English words.
 
 ```
 git clone https://github.com/SinTan1729/Unscrambler
-cd folderify
+cd Unscrambler
 g++ Unscrambler.cpp -o Unscrambler
 ```
 Or, you can simply use the precompiled binary that's included.
