@@ -17,9 +17,3 @@ Or, you can simply use the precompiled binary that's included.
 # Usage
 
 Just run the binary, and follow the simple instructions.
-
-### _You might buy me a cup of coffee:_
-
-**UPI (preferred) : sintan@ybl**
-
-**PayPal : sayantan.santra689@gmail.com** 
